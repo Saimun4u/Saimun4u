@@ -13,7 +13,7 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> MySQL</code>
 * <code><img height="20" src="https://pbs.twimg.com/media/EimwjJ1WoAYYt_L.jpg"> PowerBI</code>
 
-* Convert data into actionable insights by predicting and modeling future outcommes.
+* Convert data into actionable insights by predicting and modeling future outcomes.
 * Utilize MS SQL, Tableau and other dashboards/visualization toolsets for data intelligence and analysis.
 
 ## About me:
@@ -21,6 +21,7 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Tableau and PostgreSQL
 - 📫 How to reach me: [@SaimunHassan2](https://twitter.com/SaimunHassan2)
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">

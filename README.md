@@ -8,6 +8,7 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</code>
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> MySQL</code>
+* <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpowerbi.microsoft.com%2Fen-us%2F&psig=AOvVaw0UjfUTUrGed6WKtt4dmjnd&ust=1647740775516000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiEhfCG0fYCFQAAAAAdAAAAABAD"> PowerBI</code>
 
 Here are some ideas to get you started:
 

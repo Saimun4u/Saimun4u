@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Saimun
 
-![Web Dev and Analytics](https://github.com/Saimun4u/Saimun4u/blob/main/my_banner_e1.jpg)
+I am from Canada and I am  a passionate FrontEnd Developer. I love helping people to promote their business by creating cool websites.
 
-I am  Saimun from Canada, and I am  a passionate FrontEnd Developer. I love helping people to promote their business by creating cool websites.
+### Skills and Experience
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saimun4u)](https://github.com/anuraghazra/github-readme-stats)
-
+* <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 Here are some ideas to get you started:
 

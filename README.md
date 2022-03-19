@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/Saimun4u/Saimun4u/blob/main/my_banner.png
+https://github.com/Saimun4u/Saimun4u/blob/main/my_banner.jpg
 
 I am  Saimun from Canada, and I am  a passionate FrontEnd Developer. I love helping people to promote their business by creating cool websites.
 

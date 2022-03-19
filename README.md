@@ -13,6 +13,9 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> MySQL</code>
 * <code><img height="20" src="https://pbs.twimg.com/media/EimwjJ1WoAYYt_L.jpg"> PowerBI</code>
 
+* Convert data into actionable insights by predicting and modeling future outcommes.
+* Utilize MS SQL, Tableau and other dashboards/visualization toolsets for data intelligence and analysis.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front End Development

@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Tableau and PostgreSQL
 - 📫 How to reach me: [@SaimunHassan2](https://twitter.com/SaimunHassan2)
--->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">

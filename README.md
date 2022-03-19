@@ -3,7 +3,7 @@
 I am from Canada and I am  a passionate FrontEnd Developer. I love helping people to promote their business by creating cool websites.
 
 ### Skills and Experience
-* https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
+* <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 Here are some ideas to get you started:

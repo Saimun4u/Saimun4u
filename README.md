@@ -16,7 +16,7 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 * Convert data into actionable insights by predicting and modeling future outcommes.
 * Utilize MS SQL, Tableau and other dashboards/visualization toolsets for data intelligence and analysis.
 
-About me:
+## About me:
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Tableau and PostgreSQL

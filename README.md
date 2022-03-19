@@ -4,6 +4,8 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saimun4u)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 ## Skills and Experience
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> HTML</code>
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> CSS</code>

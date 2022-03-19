@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Saimun
 
-I am from Canada and I am  a passionate FrontEnd Developer. I love helping people to promote their business by creating cool websites.
+I am from Canada and I am  a passionate FrontEnd Developer. I love helping people to promote their business by creating cool websites and provide business solutions.
 
 ### Skills and Experience
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> HTML</code>

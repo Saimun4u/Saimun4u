@@ -18,6 +18,8 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 
 ## About me:
 
+https://i.imgur.com/1JeuEd1.png
+
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Tableau and PostgreSQL
 - 📫 How to reach me: [@SaimunHassan2](https://twitter.com/SaimunHassan2)

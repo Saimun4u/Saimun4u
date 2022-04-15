@@ -18,7 +18,7 @@ I am from Canada and I am  a passionate FrontEnd Developer. I love helping peopl
 
 ## About me:
 
-https://i.imgur.com/1JeuEd1.png
+* <code><img src="https://i.imgur.com/1JeuEd1.png"></code>
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Tableau and PostgreSQL
